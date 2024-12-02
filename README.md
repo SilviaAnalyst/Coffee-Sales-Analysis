@@ -45,9 +45,8 @@ Regional Performance: Specific regions outperform others, suggesting tailored ma
 Product Popularity: A few products account for a large percentage of revenue, highlighting customer preferences.
 
 # How to Use
-# Clone this repository:
-bash
-# Copy code
+Clone this repository:
+Copy code
 git clone https://github.com/SilviaAnalyst/Coffee-Sales-Analysis.git  
 Install the required Python libraries (if analyzing via Python):
 bash
